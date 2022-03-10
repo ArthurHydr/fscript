@@ -1,6 +1,6 @@
 # Fscript
 
-## How to intall
+## How to install
 * Clone the repository
 * `npm i` inside the project directory.
 
